@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.31)  9 APR 2016 12:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.31)  9 APR 2016 12:39
 entering extended mode
 **DOC.tex
 (DOC.tex
@@ -747,47 +747,19 @@ File: diagramaContexto.PNG Graphic file (type png)
 
 <use diagramaContexto.PNG>
 Package pdftex.def Info: diagramaContexto.PNG used on input line 23.
-(pdftex.def)             Requested size: 296.75795pt x 182.0296pt.
+(pdftex.def)             Requested size: 148.37897pt x 91.0148pt.
+ [1
 
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.28 \\
-       
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29 \section
-             *{Oportunidades de Negócio}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--43
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./diagramaContexto.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 31--41
 
  []
 
-[1
-
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2 <./diagramaContexto.PN
-G>] [3] (DOC.aux) ) 
+[2] [3] (DOC.aux) ) 
 Here is how much of TeX's memory you used:
  10585 strings out of 493698
  225094 string characters out of 3144412
- 231970 words of memory out of 3000000
+ 232970 words of memory out of 3000000
  13850 multiletter control sequences out of 15000+200000
  13035 words of font info for 40 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -797,7 +769,7 @@ er-t1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Program Files
 /MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on DOC.pdf (3 pages, 86900 bytes).
+Output written on DOC.pdf (3 pages, 88399 bytes).
 PDF statistics:
  32 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

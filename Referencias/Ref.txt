@@ -1,0 +1,3 @@
+Javadoc 
+	Server http://www.egr.msu.edu/classes/ece480/capstone/spring11/group02/documents/server/javadoc/index.html
+	App    http://www.egr.msu.edu/classes/ece480/capstone/spring11/group02/documents/phone_app/javadoc/index.html

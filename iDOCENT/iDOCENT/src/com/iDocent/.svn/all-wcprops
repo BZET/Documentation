@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/77/trunk/src/com/iDocent
+END
+RoomDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/77/trunk/src/com/iDocent/RoomDownloader.java
+END
+AccessPointDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/77/trunk/src/com/iDocent/AccessPointDB.java
+END
+GraphicsObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/76/trunk/src/com/iDocent/GraphicsObject.java
+END
+Dot.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/77/trunk/src/com/iDocent/Dot.java
+END
+ScanResultReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/77/trunk/src/com/iDocent/ScanResultReceiver.java
+END
+NavigationDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/77/trunk/src/com/iDocent/NavigationDownloader.java
+END
+DirectionsMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/77/trunk/src/com/iDocent/DirectionsMap.java
+END
+TexturedSquare.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/77/trunk/src/com/iDocent/TexturedSquare.java
+END
+APDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/77/trunk/src/com/iDocent/APDownloader.java
+END
+Renderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/77/trunk/src/com/iDocent/Renderer.java
+END
+ScanTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/77/trunk/src/com/iDocent/ScanTask.java
+END
+RoomSelectSpinner.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/77/trunk/src/com/iDocent/RoomSelectSpinner.java
+END
+ScanCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/77/trunk/src/com/iDocent/ScanCounter.java
+END
+DistanceAndDirection.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/77/trunk/src/com/iDocent/DistanceAndDirection.java
+END
+iDocent.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/77/trunk/src/com/iDocent/iDocent.java
+END
+Map.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/77/trunk/src/com/iDocent/Map.java
+END
+Room.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/77/trunk/src/com/iDocent/Room.java
+END
+LocationNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/77/trunk/src/com/iDocent/LocationNormalizer.java
+END
+VolumeBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/77/trunk/src/com/iDocent/VolumeBar.java
+END
+InetRLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/77/trunk/src/com/iDocent/InetRLookup.java
+END
+RoomSquare.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/77/trunk/src/com/iDocent/RoomSquare.java
+END
+WeightedScanFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/77/trunk/src/com/iDocent/WeightedScanFactory.java
+END
+WeightedScan.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/77/trunk/src/com/iDocent/WeightedScan.java
+END
+Line.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/77/trunk/src/com/iDocent/Line.java
+END

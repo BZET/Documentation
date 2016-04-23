@@ -6,6 +6,9 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{graphicx}
+\usepackage{url}
+\bibliography{bibliografia.bib}
+\usepackage{biblatex}
 
 \begin{document}
 
@@ -24,6 +27,7 @@
 		\caption{Diagrama de Contexto}
 	\end{figure}
 	O projeto será dividido em dois módulos: o aplicativo Android e o servidor.Estes estarão relacionados através da internet.
+	
 \section*{Oportunidades de Negócio}
 	Esse projeto tem como oportunidade de negócio o mapeamento de eventos, locais públicos como: shoppings, aeroportos e terminais de viação.
 	No início o aplicativo será gratuito e posteriormente iremos oferecer propagandas para chamar os pessoas para locais mapeados. Outra implementação é inserir elementos de grande procura como banheiros, elevadores, saídas de incêndio. Adicionar o método de gamefication, dando premiação aos usuários que irem a mais locais para que as pessoas conheçam mais pontos.
@@ -36,18 +40,29 @@ Outra possibilidade é o mapa impresso, seja em papeis, banners e afins. Esta so
 \section*{Módulos do Sistema}
 \section*{Precedência e Prioridades}
 \section*{Requisitos Funcionais}
-\section*{Requitos Não Funcionais}
+-Localizar o usuário\\
+-Guiar o usuário até o local escolhido\\
+-Mostrar os locais disponíveis\\
+
+\section*{Requisitos Não Funcionais}
+-Ponteiro da localização do usuário deve atualizar a cada segundo mais ou menos\\
+-A triangulação deve ser a cada segundo\\
+-O Sistema vai rodar entre seis horas da manhã até onze horas da noite
 \section*{Restrições}
+-Sistema tem que estar pronto no máximo até o fim de 2017.\\
+-Sistema vai 
 \section*{Ambiente Operacional}
 Java Android, SqLite, MySql, PHP, Apache server, HTML/CSS, Javascript, Ajax.
 \section*{Visão Geral do Sistema - Modelo Conceitual}
+
 \section*{Glossário}
 
 \section*{Referências}
 
-{   \small\bibliographystyle{unsrt}
-	\bibliography{bibliografia}}
 
-  http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=512737&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D512737
-	https://www.researchgate.net/profile/Ling_Pei/publication/261876649_Motion_recognition_assisted_indoor_wireless_navigation_on_a_mobile_phone/links/0c960535c7a180ac6a000000.pdf	
+
+	\nocite{Doe:2009:Online}
+	\printbibliography
+	
+
 \end{document}

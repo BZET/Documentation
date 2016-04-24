@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.31)  23 APR 2016 12:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.31)  24 APR 2016 11:59
 entering extended mode
 **DOC.tex
 (DOC.tex
@@ -583,13 +583,6 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
-Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
-File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
-))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -617,269 +610,23 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 ))
 \Gin@req@height=\dimen150
 \Gin@req@width=\dimen151
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
-\Urlmuskip=\muskip16
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-\bibdata{bibliografia.bib}
-(DOC.bbl) ("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.sty"
-Package: biblatex 2014/06/25 v2.9a programmable bibliographies (PK/JW/AB)
-
-
-Package biblatex Warning: No "backend" specified, using Biber backend.
-(biblatex)                To use BibTeX, load biblatex with 
-(biblatex)                the "backend=bibtex" option.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex2.sty"
-Package: biblatex2 2014/06/25 v2.9a programmable bibliographies (biber) (PK/JW/
-AB)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
-Package: etoolbox 2015/03/10 v2.1b e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count135
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-("C:\Program Files\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
-Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count136
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\logreq\logreq.def"
-File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-))
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-\c@tabx@nest=\count137
-\c@listtotal=\count138
-\c@listcount=\count139
-\c@liststart=\count140
-\c@liststop=\count141
-\c@citecount=\count142
-\c@citetotal=\count143
-\c@multicitecount=\count144
-\c@multicitetotal=\count145
-\c@instcount=\count146
-\c@maxnames=\count147
-\c@minnames=\count148
-\c@maxitems=\count149
-\c@minitems=\count150
-\c@citecounter=\count151
-\c@savedcitecounter=\count152
-\c@uniquelist=\count153
-\c@uniquename=\count154
-\c@refsection=\count155
-\c@refsegment=\count156
-\c@maxextratitle=\count157
-\c@maxextratitleyear=\count158
-\c@maxextrayear=\count159
-\c@maxextraalpha=\count160
-\c@abbrvpenalty=\count161
-\c@highnamepenalty=\count162
-\c@lownamepenalty=\count163
-\c@maxparens=\count164
-\c@parenlevel=\count165
-\blx@tempcnta=\count166
-\blx@tempcntb=\count167
-\blx@tempcntc=\count168
-\blx@maxsection=\count169
-\blx@maxsegment@0=\count170
-\blx@notetype=\count171
-\blx@parenlevel@text=\count172
-\blx@parenlevel@foot=\count173
-\blx@sectionciteorder@0=\count174
-\labelnumberwidth=\skip55
-\labelalphawidth=\skip56
-\biblabelsep=\skip57
-\bibitemsep=\skip58
-\bibnamesep=\skip59
-\bibinitsep=\skip60
-\bibparsep=\skip61
-\bibhang=\skip62
-\blx@bcfin=\read2
-\blx@bcfout=\write3
-\c@mincomprange=\count175
-\c@maxcomprange=\count176
-\c@mincompwidth=\count177
-Package biblatex Info: Trying to load biblatex default data model...
-Package biblatex Info: ... file 'blx-dm.def' found.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\blx-dm.def")
-Package biblatex Info: Trying to load biblatex custom data model...
-Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count178
-\c@savedafterword=\count179
-\c@annotator=\count180
-\c@savedannotator=\count181
-\c@author=\count182
-\c@savedauthor=\count183
-\c@bookauthor=\count184
-\c@savedbookauthor=\count185
-\c@commentator=\count186
-\c@savedcommentator=\count187
-\c@editor=\count188
-\c@savededitor=\count189
-\c@editora=\count190
-\c@savededitora=\count191
-\c@editorb=\count192
-\c@savededitorb=\count193
-\c@editorc=\count194
-\c@savededitorc=\count195
-\c@foreword=\count196
-\c@savedforeword=\count197
-\c@holder=\count198
-\c@savedholder=\count199
-\c@introduction=\count200
-\c@savedintroduction=\count201
-Normal \count register pool exhausted, switching to extended pool.
-\c@namea=\count277
-\c@savednamea=\count278
-\c@nameb=\count279
-\c@savednameb=\count280
-\c@namec=\count281
-\c@savednamec=\count282
-\c@translator=\count283
-\c@savedtranslator=\count284
-\c@shortauthor=\count285
-\c@savedshortauthor=\count286
-\c@shorteditor=\count287
-\c@savedshorteditor=\count288
-\c@labelname=\count289
-\c@savedlabelname=\count290
-\c@institution=\count291
-\c@savedinstitution=\count292
-\c@lista=\count293
-\c@savedlista=\count294
-\c@listb=\count295
-\c@savedlistb=\count296
-\c@listc=\count297
-\c@savedlistc=\count298
-\c@listd=\count299
-\c@savedlistd=\count300
-\c@liste=\count301
-\c@savedliste=\count302
-\c@listf=\count303
-\c@savedlistf=\count304
-\c@location=\count305
-\c@savedlocation=\count306
-\c@organization=\count307
-\c@savedorganization=\count308
-\c@origlocation=\count309
-\c@savedoriglocation=\count310
-\c@origpublisher=\count311
-\c@savedorigpublisher=\count312
-\c@publisher=\count313
-\c@savedpublisher=\count314
-\c@language=\count315
-\c@savedlanguage=\count316
-\c@pageref=\count317
-\c@savedpageref=\count318
-\shorthandwidth=\skip63
-\shortjournalwidth=\skip64
-\shortserieswidth=\skip65
-\shorttitlewidth=\skip66
-\shortauthorwidth=\skip67
-\shorteditorwidth=\skip68
-Package biblatex Info: Trying to load compatibility code...
-Package biblatex Info: ... file 'blx-compat.def' found.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\blx-compat.def"
-File: blx-compat.def 2014/06/25 v2.9a biblatex compatibility (PK/JW/AB)
-)
-Package biblatex Info: Trying to load generic definitions...
-Package biblatex Info: ... file 'biblatex.def' found.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.def"
-File: biblatex.def 
-\c@textcitecount=\count319
-\c@textcitetotal=\count320
-\c@textcitemaxnames=\count321
-\c@biburlnumpenalty=\count322
-\c@biburlucpenalty=\count323
-\c@biburllcpenalty=\count324
-\c@smartand=\count325
-)
-Package biblatex Info: Trying to load bibliography style 'numeric'...
-Package biblatex Info: ... file 'numeric.bbx' found.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\numeric.bbx"
-File: numeric.bbx 2014/06/25 v2.9a biblatex bibliography style (PK/JW/AB)
-Package biblatex Info: Trying to load bibliography style 'standard'...
-Package biblatex Info: ... file 'standard.bbx' found.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\standard.bbx"
-File: standard.bbx 2014/06/25 v2.9a biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count326
-\c@bbx:relatedtotal=\count327
-))
-Package biblatex Info: Trying to load citation style 'numeric'...
-Package biblatex Info: ... file 'numeric.cbx' found.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\cbx\numeric.cbx"
-File: numeric.cbx 2014/06/25 v2.9a biblatex citation style (PK/JW/AB)
-Package biblatex Info: Redefining '\cite'.
-Package biblatex Info: Redefining '\parencite'.
-Package biblatex Info: Redefining '\footcite'.
-Package biblatex Info: Redefining '\footcitetext'.
-Package biblatex Info: Redefining '\smartcite'.
-Package biblatex Info: Redefining '\supercite'.
-Package biblatex Info: Redefining '\textcite'.
-Package biblatex Info: Redefining '\textcites'.
-Package biblatex Info: Redefining '\cites'.
-Package biblatex Info: Redefining '\parencites'.
-Package biblatex Info: Redefining '\smartcites'.
-)
-Package biblatex Info: Trying to load configuration file...
-Package biblatex Info: ... file 'biblatex.cfg' found.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.cfg"
-File: biblatex.cfg 
-)))
-Package biblatex Info: Trying to load language 'brazilian'...
-Package biblatex Info: ... file 'brazilian.lbx' found.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\lbx\brazilian.lbx"
-File: brazilian.lbx 2014/06/25 v2.9a biblatex localization (PK/JW/AB)
-)
-
-Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
-(biblatex)                Loading 'csquotes' recommended.
-
-\@quotelevel=\count328
-\@quotereset=\count329
-(DOC.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+) (DOC.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
- ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
 File: ts1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -960,91 +707,65 @@ File: siunitx-abbreviations.cfg 2015/01/21 v2.6e siunitx: Abbreviated units
 )
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count330
+\scratchcounter=\count135
 \scratchdimen=\dimen152
 \scratchbox=\box48
-\nofMPsegments=\count331
-\nofMParguments=\count332
+\nofMPsegments=\count136
+\nofMParguments=\count137
 \everyMPshowfont=\toks20
-\MPscratchCnt=\count333
+\MPscratchCnt=\count138
 \MPscratchDim=\dimen153
-\MPnumerator=\count334
-\makeMPintoPDFobject=\count335
+\MPnumerator=\count139
+\makeMPintoPDFobject=\count140
 \everyMPtoPDFconversion=\toks21
 )
-Package biblatex Info: Input encoding 'utf8' detected.
-Package biblatex Info: Automatic encoding selection.
-(biblatex)             Assuming data encoding 'utf8'.
-Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'DOC.bbl' found.
- (DOC.bbl)
-Package biblatex Info: Reference section=0 on input line 13.
-Package biblatex Info: Reference segment=0 on input line 13.
-\c__siunitx_mathsf_int=\count336
+\c__siunitx_mathsf_int=\count141
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 13.
+(Font)              <12> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 13.
+(Font)              <8> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 13.
-\c__siunitx_mathtt_int=\count337
+(Font)              <6> on input line 9.
+\c__siunitx_mathtt_int=\count142
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 18.
+(Font)              <14.4> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 18.
- <diagramaContexto.PNG, id=1, 296.75868pt x 182.03006pt>
+(Font)              <7> on input line 14.
+
+Overfull \hbox (9.64685pt too wide) in paragraph at lines 14--14
+ [][] 
+ []
+
+<diagramaContexto.PNG, id=1, 296.75868pt x 182.03006pt>
 File: diagramaContexto.PNG Graphic file (type png)
 
 <use diagramaContexto.PNG>
-Package pdftex.def Info: diagramaContexto.PNG used on input line 26.
+Package pdftex.def Info: diagramaContexto.PNG used on input line 22.
 (pdftex.def)             Requested size: 148.37897pt x 91.0148pt.
  [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (48.56909pt too wide) in paragraph at lines 35--37
-\T1/cmr/m/n/12 -Instituto Mauá de Tecnologia-Funcionários-Alunos -Visitantes -A
-dministradores(nós)-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--46
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./diagramaContexto.PNG>] 
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 41--44
 
  []
 
-[2 <./diagramaContexto.PNG>]
-
-LaTeX Warning: Citation 'Doe:2009:Online' undefined on input line 64.
-
-
-LaTeX Warning: Empty bibliography on input line 65.
-
-[3] (DOC.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                DOC
-(biblatex)                and rerun LaTeX afterwards.
-
-Package logreq Info: Writing requests to 'DOC.run.xml'.
- ) 
+(DOC.bbl [3]) [4] (DOC.aux) ) 
 Here is how much of TeX's memory you used:
- 15827 strings out of 493698
- 317164 string characters out of 3144412
- 657478 words of memory out of 3000000
- 19020 multiletter control sequences out of 15000+200000
- 13967 words of font info for 43 fonts, out of 3000000 for 9000
+ 10590 strings out of 493698
+ 224978 string characters out of 3144412
+ 231954 words of memory out of 3000000
+ 13859 multiletter control sequences out of 15000+200000
+ 11370 words of font info for 42 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 44i,6n,39p,10427b,1358s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}<C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1728.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/cm-super/sfrm1440.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/cm-super/sfrm2074.pfb>
-Output written on DOC.pdf (3 pages, 89330 bytes).
+ 39i,7n,39p,10427b,490s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on DOC.pdf (4 pages, 78037 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
+ 34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

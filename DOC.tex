@@ -19,7 +19,7 @@
 \begin{figure}
 	\section*{Escopo}
 	\centering
-	\includegraphics[scale=0.5]{diagramaContexto.PNG}
+	\includegraphics[scale=1.0]{diagramaContexto.PNG}
 	\caption{Diagrama de Contexto}
 \end{figure}
 
@@ -35,27 +35,55 @@ O ambiente em que o cliente se encontra atualmente apresenta diversas possibilid
 Outra possibilidade é o mapa impresso, seja em papeis, banners e afins. Esta solução apenas mostra o local para o usuário, e a localização de outros locais, mas não fornece a rota para o local desejado tampouco fornece diretamente a localização deste.Obs: No exterior o conceito de nosso projeto já foi implementado em diversos lugares.
 \section*{Módulos do Sistema}
 O projeto será dividido em dois módulos: o aplicativo Android e o servidor. Estes estarão relacionados através da internet.
-\section*{Precedência e Prioridades}
-*Objetivos e dentre eles as principais
+\section*{Prioridades}
+-Localizar o usuário\\
+-Localizar os lugares disponíveis\\
+-Cálculo de rota\\
+\section*{Precedência}
+Nosso projeto foi baseado no trabalho de graduação de um grupo de alunos da Universidade de Michigan
 \section*{Requisitos Funcionais}
 -Localizar o usuário\\
+	-Detecção dos roteadores\\ 	
+	-Triangulação\\
 -Guiar o usuário até o local escolhido\\
--Mostrar os locais disponíveis\\
+-Mostrar pontos importantes\\
+-Localizar os lugares disponíveis\\
+	-Banco de Dados dos grafos\\
+-Cálculo de rota\\
+-Histórico de rotas
+	-Banco de Dados\\
+	-Mineração de Dados\\
+-Ranking de lugares\\
+-Favoritos\\
+-Acessibilidade para pessoas cegas em Português\\
 
 \section*{Requisitos Não Funcionais}
+-Tempo de localização do usuário\\
 -Ponteiro da localização do usuário deve atualizar a cada segundo mais ou menos\\
--A triangulação deve ser a cada segundo\\
--O Sistema vai rodar entre seis horas da manhã até onze horas da noite
+-O Sistema vai rodar entre seis horas da manhã até onze horas da noite\\
 
 \section*{Restrições}
 -Sistema tem que estar pronto no máximo até o fim de 2017.\\
--Suporte para versões de Android apartir Iceam Sandwich (API 14)\cite{androidVersion}.
+-Suporte para versões de Android apartir Iceam Sandwich (API 14)\cite{androidVersion}.\\
+-Acesso à internet \\
+-Aparelho com Wifi\\
+-Rede Wifi Local\\
 \section*{Ambiente Operacional}
-Java Android, SqLite, MySql, PHP, Apache server, HTML/CSS, Javascript, Ajax.
+\subsection*{Front-End}
+	Android\\
+	SqLite\\
+\subsection*{Back-End}
+	PHP\\
+	Mysql Server\\
+	
 
 \section*{Visão Geral do Sistema - Modelo Conceitual}
 
 \section*{Glossário}
+\textbf{SSID }nome da rede sem fio.\\
+\textbf{BSSID } endereço MAC de um ponto de acesso ou de adaptador sem fio.\\
+\textbf{Endereço MAC(Media Access Control) } endereço físico e único associado a um dispositivo que se comunica à rede.\\
+\textbf{Decibel (dB) }unidade de medida de intensidade de sinais de rádio frequência, como por exemplo do Wifi.\\
 
 \bibliographystyle{abbrv}
 \bibliography{refs}

@@ -20,3 +20,10 @@
     - Diagrama de Classes
     - Diagramas de Atividades
 
+##Design
+-Fazer a pesquisa de campo
+http://indoo.rs/features/
+http://www.infsoft.com/products/indoor-navigation
+http://www.wifarer.com/home/indoor-navigation#features-bar
+http://meridianapps.com/
+

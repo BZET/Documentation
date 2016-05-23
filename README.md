@@ -22,8 +22,10 @@
 
 ##Design
 -Fazer a pesquisa de campo
-http://indoo.rs/features/
-http://www.infsoft.com/products/indoor-navigation
-http://www.wifarer.com/home/indoor-navigation#features-bar
-http://meridianapps.com/
+  -http://indoo.rs/features/
+  -http://www.infsoft.com/products/indoor-navigation
+  -http://www.wifarer.com/home/indoor-navigation#features-bar
+  -http://meridianapps.com/
+- Pesquisa de posicionamento de funções 
+  -http://www.uxmatters.com/mt/archives/2013/02/how-do-users-really-hold-mobile-devices.php
 
